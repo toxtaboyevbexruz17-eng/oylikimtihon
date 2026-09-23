@@ -1,0 +1,1430 @@
+[
+  {
+    "key": "HTML CSS.docx",
+    "title": "HTML va CSS",
+    "subject": "HTML/CSS",
+    "questions": [
+      {
+        "question": "HTML so'zining to'liq ma'nosi qaysi?",
+        "options": [
+          "Hyper Text Markup Language",
+          "High Text Making Language",
+          "Hyper Tool Markup Language",
+          "Home Text Markup Language"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "CSS nima uchun ishlatiladi?",
+        "options": [
+          "Ma'lumotlar bazasi yaratish uchun",
+          "Dasturlash uchun",
+          "Server yaratish uchun",
+          "Saytni bezash uchun"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "HTML nima?",
+        "options": [
+          "Operatsion tizim",
+          "Grafik dastur",
+          "Dasturlash tili",
+          "Veb sahifa yaratish uchun belgilash tili"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "font-family nima vazifani bajaradi?",
+        "options": [
+          "Balandligini o'zgartiradi",
+          "Matn shriftini o'zgartiradi",
+          "Matn rangini o'zgartiradi",
+          "Matnni markazlaydi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "<a> tegi nima uchun ishlatiladi?",
+        "options": [
+          "Jadval yaratish",
+          "Havola (link) yaratish",
+          "Rasm chiqarish",
+          "Tugma yaratish"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "margin nima qiladi?",
+        "options": [
+          "Tashqi bo'shliq beradi",
+          "Rang beradi",
+          "Chegara chizadi",
+          "Ichki bo'shliq beradi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Sarlavha teglari qaysi javobda to'g'ri ko'rsatilgan?",
+        "options": [
+          "h1 dan h6 gacha",
+          "h2 dan h6 gacha",
+          "h1 dan h2 gacha",
+          "h1 dan h4 gacha"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "color nima vazifani bajaradi?",
+        "options": [
+          "Balandlik beradi",
+          "Matn rangini o'zgartiradi",
+          "Fon rangini o'zgartiradi",
+          "Kenglik beradi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "<img> tegi nima uchun ishlatiladi?",
+        "options": [
+          "Tugma yaratadi",
+          "Rasm chiqaradi",
+          "Jadval yaratadi",
+          "Video chiqaradi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "display:flex nima qiladi?",
+        "options": [
+          "Rasm chiqaradi",
+          "Jadval yaratadi",
+          "Matn yozadi",
+          "Elementlarni moslashuvchan joylashtiradi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "alt atributining vazifasi nima?",
+        "options": [
+          "Link yaratadi",
+          "Rang beradi",
+          "Rasm tavsifini yozadi",
+          "Rasmni kattalashtiradi"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "padding nima qiladi?",
+        "options": [
+          "Chegara chizadi",
+          "Ichki bo'shliq beradi",
+          "Tashqi bo'shliq beradi",
+          "Rang beradi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "<p> tegi nima uchun ishlatiladi?",
+        "options": [
+          "Jadval yaratadi",
+          "Paragraf yaratadi",
+          "Video chiqaradi",
+          "Tugma yaratadi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "justify-content nima vazifani bajaradi?",
+        "options": [
+          "Vertikal joylashtiradi",
+          "Rang beradi",
+          "Kenglik beradi",
+          "Elementlarni gorizontal joylashtiradi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Link manzili qaysi atribut orqali yoziladi?",
+        "options": [
+          "alt",
+          "class",
+          "src",
+          "href"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "background-color nima qiladi?",
+        "options": [
+          "Balandlik beradi",
+          "Matn rangini o'zgartiradi",
+          "Fon rangini o'zgartiradi",
+          "Chegara beradi"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "<button> tegi nima uchun ishlatiladi?",
+        "options": [
+          "Tugma yaratadi",
+          "Rasm chiqaradi",
+          "Jadval yaratadi",
+          "Link yaratadi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "width nima vazifani bajaradi?",
+        "options": [
+          "Balandlik beradi",
+          "Rang beradi",
+          "Ichki bo'shliq beradi",
+          "Kenglik beradi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "HTML atributi nima?",
+        "options": [
+          "JavaScript kodi",
+          "Dasturlash tili",
+          "CSS kodi",
+          "Tegga qo'shimcha ma'lumot beradi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "font-size nima qiladi?",
+        "options": [
+          "Chegara beradi",
+          "Matn o'lchamini o'zgartiradi",
+          "Rang beradi",
+          "Kenglik beradi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "input tegi nima uchun ishlatiladi?",
+        "options": [
+          "Matn kiritish maydoni yaratadi",
+          "Jadval yaratadi",
+          "Rasm chiqaradi",
+          "Video chiqaradi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "align-items nima qiladi?",
+        "options": [
+          "Gorizontal tekislaydi",
+          "Rang beradi",
+          "Margin beradi",
+          "Elementlarni vertikal tekislaydi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "HTML faylining kengaytmasi qanday?",
+        "options": [
+          ".html",
+          ".png",
+          ".css",
+          ".js"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "border nima vazifani bajaradi?",
+        "options": [
+          "Ichki bo'shliq beradi",
+          "Chegara chizadi",
+          "Rang beradi",
+          "Tashqi bo'shliq beradi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "<h1> tegi nima uchun ishlatiladi?",
+        "options": [
+          "Eng katta sarlavha yozish",
+          "Rasm chiqarish",
+          "Tugma yaratish",
+          "Link yaratish"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "font-weight nima qiladi?",
+        "options": [
+          "Rang beradi",
+          "Balandlik beradi",
+          "Kenglik beradi",
+          "Matnni qalinlashtiradi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "flex-direction: row nimani bildiradi?",
+        "options": [
+          "Rang beradi",
+          "Jadval yaratadi",
+          "Elementlar yonma-yon joylashadi",
+          "Elementlar ustma-ust joylashadi"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "src atributi nima uchun ishlatiladi?",
+        "options": [
+          "Matn yozadi",
+          "Rasm manzilini ko'rsatadi",
+          "Link yaratadi",
+          "Rang beradi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "height nima vazifani bajaradi?",
+        "options": [
+          "Element balandligini belgilaydi",
+          "Element kengligini belgilaydi",
+          "Rang beradi",
+          "Matnni qalinlashtiradi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "border-radius nima qiladi?",
+        "options": [
+          "Chegara chizadi",
+          "Rang beradi",
+          "Ichki bo'shliq beradi",
+          "Burchaklarni yumaloqlaydi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "flex-direction: column nimani bildiradi?",
+        "options": [
+          "Rang beradi",
+          "Jadval yaratadi",
+          "Elementlar ustma-ust joylashadi",
+          "Elementlar yonma-yon joylashadi"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "<img> tegi ishlashi uchun eng muhim atribut qaysi?",
+        "options": [
+          "href",
+          "class",
+          "target",
+          "src"
+        ],
+        "correct": 3
+      },
+      {
+        "question": ":hover nima?",
+        "options": [
+          "Sichqoncha element ustiga olib borilganda ishlaydi",
+          "Element bosilganda ishlaydi",
+          "Sahifa yuklanganda ishlaydi",
+          "Matnni qalinlashtiradi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "transition nima uchun ishlatiladi?",
+        "options": [
+          "Rasm chiqarish uchun",
+          "Jadval yaratish uchun",
+          "Matn yozish uchun",
+          "Animatsiyani silliq bajarish uchun"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Saytning yuqori qismi qaysi teg orqali yoziladi?",
+        "options": [
+          "<main>",
+          "<section>",
+          "<footer>",
+          "<header>"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Saytning o'rta qismi qaysi teg orqali yoziladi?",
+        "options": [
+          "<nav>",
+          "<header>",
+          "<main>",
+          "<footer>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Saytning pastki qismi qaysi teg orqali yoziladi?",
+        "options": [
+          "<section>",
+          "<footer>",
+          "<header>",
+          "<aside>"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Odatda <section> tegidan keyin nima yoziladi?",
+        "options": [
+          "<img>",
+          "<button>",
+          "<video>",
+          "<div class=\"container\">"
+        ],
+        "correct": 3
+      },
+      {
+        "question": ".container nima uchun ishlatiladi?",
+        "options": [
+          "Video qo'shish uchun",
+          "Jadval yaratish uchun",
+          "Kontentni tartibli joylashtirish va markazga olib kelish uchun",
+          "Rasm chiqarish uchun"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "display: flex nima vazifani bajaradi?",
+        "options": [
+          "Rasm chiqaradi",
+          "Elementlarni moslashuvchan joylashtiradi",
+          "Matn rangini o'zgartiradi",
+          "Chegara chizadi"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  {
+    "key": "JAVASCRIPT.docx",
+    "title": "JavaScript",
+    "subject": "JavaScript",
+    "questions": [
+      {
+        "question": "Natija nima?\nlet x = 5;\nif (x++ === 5) {\nx += 2;\n}\nconsole.log(x);",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet arr = [1, 2, 3, 4];\nlet result = arr.filter(x => x % 2 === 0).map(x => x * 3);\nconsole.log(result);",
+        "options": [
+          "[2, 4]",
+          "[3, 9]",
+          "[1, 2, 3, 4]",
+          "[6, 12]"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Natija nima?\nlet a = 10;\nlet b = \"10\";\nconsole.log(a == b);\nconsole.log(a === b);",
+        "options": [
+          "true false",
+          "false false",
+          "true true",
+          "false true"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Natija nima?\nfunction test(x) {\nif (x > 5) return x * 2;\nreturn x + 2;\n}\nconsole.log(test(4));",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "10"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nlet sum = 0;\nfor (let i = 1; i <= 5; i++) {\nif (i % 2 === 0) sum += i;\n}\nconsole.log(sum);",
+        "options": [
+          "10",
+          "9",
+          "6",
+          "15"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet x = 10;\nlet y = x > 5 ? 20 : 30;\nconsole.log(y);",
+        "options": [
+          "10",
+          "20",
+          "30",
+          "undefined"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nlet arr = [10, 20, 30];\nconsole.log(arr.pop());\nconsole.log(arr.length);",
+        "options": [
+          "30 va 3",
+          "20 va 2",
+          "10 va 2",
+          "30 va 2"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Natija nima?\nlet x = 0;\nwhile (x < 3) {\nx++;\n}\nconsole.log(x);",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "0"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nconsole.log(!false && true);",
+        "options": [
+          "true",
+          "false",
+          "undefined",
+          "null"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Natija nima?\nlet nums = [1, 2, 3];\nlet result = nums.map(x => x + 1);\nconsole.log(nums);\nconsole.log(result);",
+        "options": [
+          "[2,3,4] va [2,3,4]",
+          "[1,2,3] va [1,2,3]",
+          "[1,2,3] va [2,3,4]",
+          "[2,3,4] va [1,2,3]"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nfunction add(a = 2, b = 3) {\nreturn a + b;\n}\nconsole.log(add(5));",
+        "options": [
+          "5",
+          "7",
+          "8",
+          "undefined"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet x = null;\nconsole.log(typeof x);",
+        "options": [
+          "null",
+          "undefined",
+          "object",
+          "string"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet arr = [1, 2, 3, 4, 5];\nconsole.log(arr.slice(1, 4));",
+        "options": [
+          "[1,2,3]",
+          "[2,3,4]",
+          "[2,3,4,5]",
+          "[1,2,3,4]"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nlet x = 5;\nlet y = 10;\nconsole.log(x > 3 && y < 5 || y === 10);",
+        "options": [
+          "false",
+          "5",
+          "true",
+          "undefined"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet a = 1;\nfor (let i = 0; i < 3; i++) {\na *= 2;\n}\nconsole.log(a);",
+        "options": [
+          "4",
+          "6",
+          "8",
+          "16"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet text = \"JavaScript\";\nconsole.log(text.includes(\"Script\"));",
+        "options": [
+          "true",
+          "false",
+          "Script",
+          "undefined"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Natija nima?\nlet arr = [1, 2, 3];\narr.push(4);\narr.shift();\nconsole.log(arr);",
+        "options": [
+          "[1,2,3,4]",
+          "[2,3,4]",
+          "[1,2,3]",
+          "[2,3]"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nlet x = 10;\nif (x > 5) {\nif (x < 15) console.log(\"A\");\nelse console.log(\"B\");\n}",
+        "options": [
+          "B",
+          "10",
+          "A",
+          "Error"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet result = [1, 2, 3, 4].filter(x => x > 2);\nconsole.log(result.length);",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nfunction check(x) {\nreturn x % 2 === 0 ? \"juft\" : \"toq\";\n}\nconsole.log(check(7));",
+        "options": [
+          "juft",
+          "7",
+          "toq",
+          "false"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet a = 5;\nlet b = ++a;\nconsole.log(a, b);",
+        "options": [
+          "5 6",
+          "6 5",
+          "6 6",
+          "5 5"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet a = 5;\nlet b = a++;\nconsole.log(a, b);",
+        "options": [
+          "6 5",
+          "5 6",
+          "6 6",
+          "5 5"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Natija nima?\nconsole.log(0 || \"Salom\");",
+        "options": [
+          "0",
+          "false",
+          "undefined",
+          "Salom"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Natija nima?\nconsole.log(\"\" || 25);",
+        "options": [
+          "\"\"",
+          "25",
+          "false",
+          "undefined"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nlet arr = [2, 4, 6];\nconsole.log(arr.includes(4));",
+        "options": [
+          "true",
+          "false",
+          "4",
+          "2"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Natija nima?\nlet x = 3;\nswitch (x) {\ncase 1: console.log(\"A\"); break;\ncase 2: console.log(\"B\"); break;\ncase 3: console.log(\"C\"); break;\ndefault: console.log(\"D\");\n}",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet sum = 0;\nfor (let i = 0; i < 5; i++) {\nif (i === 3) continue;\nsum += i;\n}\nconsole.log(sum);",
+        "options": [
+          "10",
+          "7",
+          "6",
+          "3"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Natija nima?\nlet arr = [1, 2, 3];\nlet result = arr.map(x => x * x).filter(x => x > 4);\nconsole.log(result);",
+        "options": [
+          "[1,4,9]",
+          "[4,9]",
+          "[9]",
+          "[1,9]"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nfunction test() {\nlet x = 10;\nreturn x > 5 && x < 20;\n}\nconsole.log(test());",
+        "options": [
+          "10",
+          "false",
+          "true",
+          "undefined"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Natija nima?\nlet arr = [1, 2, 3];\nlet x = arr.pop();\narr.unshift(x);\nconsole.log(arr);",
+        "options": [
+          "[3,1,2]",
+          "[1,2,3]",
+          "[2,3,1]",
+          "[3,2,1]"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "key": "VUE.docx",
+    "title": "Vue.js",
+    "subject": "Vue.js",
+    "questions": [
+      {
+        "question": "Vue 3 da ref() nima uchun ishlatiladi?",
+        "options": [
+          "CSS yozish uchun",
+          "API yaratish uchun",
+          "Reaktiv qiymat yaratish uchun",
+          "Komponentni o‘chirish uchun"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Quyidagi kod natijasi nima bo‘ladi?\nconst count = ref(0)\ncount.value++",
+        "options": [
+          "count.value 1 bo‘ladi",
+          "count 2 bo‘ladi",
+          "Xatolik beradi",
+          "count 0 bo‘lib qoladi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "computed() ning asosiy vazifasi nima?",
+        "options": [
+          "Eventlarni bloklash",
+          "Hosilaviy qiymatni hisoblash va cache qilish",
+          "API server yaratish",
+          "Komponentni qayta yuklash"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Vue'da v-if nima qiladi?",
+        "options": [
+          "Array yaratadi",
+          "Elementga class qo‘shadi",
+          "Input qiymatini bog‘laydi",
+          "Shart asosida elementni DOMga qo‘shadi yoki olib tashlaydi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "v-for ishlatilganda :key nima uchun kerak?",
+        "options": [
+          "Vue'ga elementlarni samarali kuzatishga yordam berish uchun",
+          "API yuborish uchun",
+          "Event yaratish uchun",
+          "Element rangini o‘zgartirish uchun"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "v-model asosan nima uchun ishlatiladi?",
+        "options": [
+          "CSS animatsiya",
+          "Lifecycle boshqarish",
+          "Komponentni import qilish",
+          "Ikki tomonlama data binding"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Vue 3 Composition API'da onMounted() qachon ishlaydi?",
+        "options": [
+          "Faqat button bosilganda",
+          "Komponent DOMga mount qilingandan keyin",
+          "Komponent o‘chirilganda",
+          "Komponent yaratishdan oldin"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "props nima uchun ishlatiladi?",
+        "options": [
+          "Router yaratish uchun",
+          "CSS ulash uchun",
+          "Parent komponentdan child komponentga ma’lumot uzatish uchun",
+          "Child komponentdan parentga ma’lumot yuborish uchun"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Child komponent parentga hodisa yuborish uchun odatda nimadan foydalanadi?",
+        "options": [
+          "watch",
+          "emit",
+          "provide",
+          "computed"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Quyidagi kodda count ning qiymatini olish uchun nima yoziladi?\nconst count = ref(10)",
+        "options": [
+          "count.get()",
+          "count.data",
+          "count.ref",
+          "count.value"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "reactive() qaysi maqsadda ishlatiladi?",
+        "options": [
+          "Route yaratish uchun",
+          "Ob'ektni reaktiv qilish uchun",
+          "Componentni import qilish uchun",
+          "Oddiy string yaratish uchun"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "watch() ning vazifasi nima?",
+        "options": [
+          "Template yaratish",
+          "CSS o‘zgartirish",
+          "Reactive qiymatdagi o‘zgarishlarni kuzatish",
+          "Componentni import qilish"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Quyidagilardan qaysi biri Vue template ichida to‘g‘ri yozilgan?",
+        "options": [
+          "<button click=\"@add\">Add</button>",
+          "<button event-click=\"add\">Add</button>",
+          "<button @click=\"add\">Add</button>",
+          "<button onclick=\"add()\">Add</button>"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "v-bind ning qisqa yozilishi qaysi?",
+        "options": [
+          ":",
+          "$",
+          "@",
+          "#"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "v-on:click ning qisqa ko‘rinishi qaysi?",
+        "options": [
+          "#click",
+          "$click",
+          ":click",
+          "@click"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Quyidagi computed qanday ishlaydi?\nconst total = computed(() => price.value * quantity.value)",
+        "options": [
+          "Kod xato",
+          "price yoki quantity o‘zgarsa, total qayta hisoblanadi",
+          "total hech qachon o‘zgarmaydi",
+          "total faqat bir marta hisoblanadi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Vue komponentida template nima uchun ishlatiladi?",
+        "options": [
+          "Ma'lumotlar bazasini ulash uchun",
+          "Server yaratish uchun",
+          "HTML interfeysini tasvirlash uchun",
+          "JavaScript modulini eksport qilish uchun"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Vue 3 Composition API'da setup() ning vazifasi nima?",
+        "options": [
+          "CSS fayl yaratish",
+          "Componentning Composition API logikasini tashkil qilish",
+          "Routerni avtomatik o‘rnatish",
+          "Browserni ochish"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Quyidagilardan qaysi biri v-for uchun to‘g‘ri?\n<li v-for=\"item in items\" :key=\"item.id\">{{ item.name }}</li>",
+        "options": [
+          "items ni o‘chiradi",
+          "Xatolik beradi",
+          "Faqat bitta element chiqaradi",
+          "items ichidagi elementlarni chiqaradi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "v-show va v-if orasidagi asosiy farq nima?",
+        "options": [
+          "v-show CSS orqali ko‘rsatish/yashirishni boshqaradi",
+          "Ular orasida farq yo‘q",
+          "v-if faqat CSS bilan ishlaydi",
+          "v-show elementni DOMdan olib tashlaydi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "defineProps() Vue 3 <script setup> ichida nima uchun ishlatiladi?",
+        "options": [
+          "State'ni o‘chirish uchun",
+          "Propslarni e'lon qilish uchun",
+          "Router yaratish uchun",
+          "Event yaratish uchun"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "defineEmits() nima uchun ishlatiladi?",
+        "options": [
+          "CSS ulash uchun",
+          "API chaqirish uchun",
+          "Component emit qiladigan eventlarni e'lon qilish uchun",
+          "Propslarni o‘qish uchun"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Quyidagi kodda qaysi holatda watch ishga tushadi?\nwatch(count, () => { console.log('changed') })",
+        "options": [
+          "Faqat console.log chaqirilganda",
+          "Component o‘chirilganda",
+          "count o‘zgarganda",
+          "Sahifa ochilganda har doim"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Vue'da nextTick() nima uchun ishlatiladi?",
+        "options": [
+          "Componentni o‘chirish uchun",
+          "API'ni qayta ishga tushirish uchun",
+          "Keyingi JavaScript faylini yuklash uchun",
+          "DOM yangilanishi tugagandan keyin kod bajarilishini kutish uchun"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Quyidagi kod nima qiladi?\n<input v-model=\"name\">\n<p>{{ name }}</p>",
+        "options": [
+          "name avtomatik o‘chadi",
+          "Faqat <p> ishlaydi",
+          "Inputdagi qiymat name bilan bog‘lanadi",
+          "Input ishlamaydi"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Parent komponentdan child komponentga title yuborishning to‘g‘ri usuli qaysi?",
+        "options": [
+          "<Child emit=\"title\" />",
+          "<Child title=\"Hello\" />",
+          "<Child props.title=\"Hello\" />",
+          "<Child :send=\"title\" />"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Vue'da ref bilan primitive qiymat ishlatilganda qaysi xususiyat muhim?",
+        "options": [
+          "ref faqat object bilan ishlaydi",
+          "Qiymat .data orqali olinadi",
+          "ref reaktiv emas",
+          "Qiymat .value orqali olinadi/o‘zgartiriladi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "onUnmounted() qachon chaqiriladi?",
+        "options": [
+          "Faqat API javob berganda",
+          "Component yaratilishidan oldin",
+          "Component DOMdan olib tashlangandan keyin",
+          "Har bir click eventida"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Quyidagi kodda isLoggedIn true bo‘lsa nima chiqadi?\n<div v-if=\"isLoggedIn\">Welcome</div>\n<div v-else>Login</div>",
+        "options": [
+          "Ikkalasi ham",
+          "Welcome",
+          "Login",
+          "Hech narsa"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Quyidagi variantlardan qaysi biri Vue 3 Composition API uchun eng to‘g‘ri?\nconst price = ref(10)\nconst count = ref(2)\nconst total = computed(() => price.value * count.value)",
+        "options": [
+          "computed faqat template tashqarisida ishlaydi",
+          "ref qiymatlari reaktiv emas",
+          "total qiymati price yoki count o‘zgarganda avtomatik yangilanadi",
+          "total hech qachon yangilanmaydi"
+        ],
+        "correct": 2
+      }
+    ]
+  },
+  {
+    "key": "WORD.docx",
+    "title": "Microsoft Word",
+    "subject": "Word",
+    "questions": [
+      {
+        "question": "Главная bo‘limida yozuvni qalin qilish uchun qaysi harfli tugma bosiladi?",
+        "options": [
+          "Ж",
+          "К",
+          "Ч",
+          "Аа"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Hujjatdan biror so‘zni qidirish uchun qaysi buyruq ishlatiladi?",
+        "options": [
+          "Заменить",
+          "Размер",
+          "Найти",
+          "Подложка"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "«Maktab» so‘zini hujjat bo‘ylab «Akademiya»ga almashtirish uchun qaysi buyruq kerak?",
+        "options": [
+          "Снимок",
+          "Заменить",
+          "Найти",
+          "Колонки"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Главная bo‘limida yozuvni qiya qilish uchun qaysi harfli tugma bosiladi?",
+        "options": [
+          "Ж",
+          "Ч",
+          "Аа",
+          "К"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Yozuvni 12 o‘lchamdan 18 o‘lchamga o‘zgartirish uchun qaysi sozlama kerak?",
+        "options": [
+          "Цвет страницы",
+          "Ориентация",
+          "Размер шрифта",
+          "Границы страниц"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Arial yoki Times New Roman kabi yozuv turini qaysi sozlamadan tanlaysiz?",
+        "options": [
+          "Шрифт",
+          "Подложка",
+          "Снимок",
+          "Линейка"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Hujjatga satr va ustunlardan iborat jadval qo‘shish uchun qaysi buyruq kerak?",
+        "options": [
+          "Фигуры",
+          "Снимок",
+          "Диаграмма",
+          "Таблица"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Kompyuterdagi suratni hujjatga qo‘yish uchun qaysi buyruq tanlanadi?",
+        "options": [
+          "Колонки",
+          "Сведения",
+          "Рисунки",
+          "Подложка"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Hujjatga to‘rtburchak yoki strelka chizish uchun qaysi buyruq ishlatiladi?",
+        "options": [
+          "Фигуры",
+          "Линейка",
+          "Заменить",
+          "Размер"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Ma’lumotlarni ustunli grafik ko‘rinishida berish uchun qaysi buyruq kerak?",
+        "options": [
+          "Таблица",
+          "Диаграмма",
+          "Снимок",
+          "Цвет страницы"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Ochiq oynaning tasvirini hujjatga qo‘shishga qaysi buyruq yordam beradi?",
+        "options": [
+          "Колонки",
+          "Подложка",
+          "Линейка",
+          "Снимок"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Hujjatga joriy sanani qo‘shish uchun qaysi buyruq ishlatiladi?",
+        "options": [
+          "Дата и время",
+          "Границы страниц",
+          "Найти",
+          "Размер"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Таблица, Рисунки va Фигуры qaysi bo‘limda joylashgan?",
+        "options": [
+          "Вид",
+          "Файл",
+          "Вставка",
+          "Главная"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Диаграмма buyrug‘ining asosiy vazifasi nima?",
+        "options": [
+          "Matndagi so‘zlarni almashtirish",
+          "Hujjatni saqlash",
+          "Sahifa chegarasini o‘zgartirish",
+          "Ma’lumotlarni grafik shaklda ko‘rsatish"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Sahifa orqasiga xira «NAMUNA» yozuvini qo‘yish uchun qaysi buyruq kerak?",
+        "options": [
+          "Таблица",
+          "Подложка",
+          "Найти",
+          "Колонки"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Sahifaning fon rangini o‘zgartirish uchun qaysi buyruq ishlatiladi?",
+        "options": [
+          "Размер",
+          "Линейка",
+          "Цвет страницы",
+          "Снимок"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Sahifa atrofiga bezakli chiziq qo‘yish uchun qaysi buyruq tanlanadi?",
+        "options": [
+          "Рисунки",
+          "Заменить",
+          "Дата и время",
+          "Границы страниц"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Подложка, Цвет страницы va Границы страниц qaysi bo‘limda joylashgan?",
+        "options": [
+          "Главная",
+          "Вид",
+          "Конструктор",
+          "Файл"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Sahifani tik yoki yotiq holatga o‘tkazish uchun qaysi buyruq ishlatiladi?",
+        "options": [
+          "Ориентация",
+          "Сведения",
+          "Шрифт",
+          "Таблица"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "A4 kabi qog‘oz formatini tanlash uchun qaysi buyruq kerak?",
+        "options": [
+          "Найти",
+          "Фигуры",
+          "Снимок",
+          "Размер"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Matnni gazeta uslubida ikki ustunga ajratish uchun qaysi buyruq ishlatiladi?",
+        "options": [
+          "Диаграмма",
+          "Колонки",
+          "Подложка",
+          "Линейка"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Ориентация, Размер va Колонки qaysi bo‘limda joylashgan?",
+        "options": [
+          "Макет",
+          "Вставка",
+          "Главная",
+          "Файл"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Veb-sahifaga o‘tadigan havola qaysi manzilga yo‘naltiradi?",
+        "options": [
+          "Printerga",
+          "Veb-sahifa manziliga",
+          "Sahifa rangiga",
+          "Jadval katagiga"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Hujjat ichidagi joyga qo‘yilgan havola qayerga olib boradi?",
+        "options": [
+          "Shu hujjatning belgilangan joyiga",
+          "Boshqa kompyuterga",
+          "Printer sozlamalariga",
+          "Word dasturining bosh sahifasiga"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Elektron pochta manziliga havola nima uchun xizmat qiladi?",
+        "options": [
+          "Qog‘oz o‘lchamini tanlash uchun",
+          "Shu manzilga xat yozishni boshlash uchun",
+          "Rasm chizish uchun",
+          "Matnni o‘ngga tekislash uchun"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Mavjud faylga olib boradigan havola qaysi turga kiradi?",
+        "options": [
+          "Faylga havola",
+          "Sahifa rangiga havola",
+          "Chiziqqa havola",
+          "Shrift o‘lchamiga havola"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Вид → Линейка yoqilganda nima ko‘rinadi?",
+        "options": [
+          "Hujjatdagi rasmlar ro‘yxati",
+          "Barcha fayllar ro‘yxati",
+          "Sahifa o‘lchov chizg‘ichi",
+          "Diagramma oynasi"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Файл → Сведения bo‘limida odatda nima ko‘riladi?",
+        "options": [
+          "Hujjat haqidagi ma’lumotlar",
+          "Faqat shakllar ro‘yxati",
+          "Faqat tezkor tugmalar",
+          "Faqat shrift ranglari"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Microsoft Word dasturining dastlabki versiyasini ishlab chiqishda kimlar qatnashgan?",
+        "options": [
+          "Steve Jobs va Tim Cook",
+          "Charles Simonyi va Richard Brodie",
+          "Larry Page va Sergey Brin",
+          "Mark Zuckerberg va Jack Dorsey"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Word dasturida Ctrl + C nima qiladi?",
+        "options": [
+          "Hujjatni saqlaydi",
+          "Abzasni o‘ngga tekislaydi",
+          "Havola qo‘shadi",
+          "Belgilangan matndan nusxa oladi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Ctrl + V nima qiladi?",
+        "options": [
+          "Barcha matnni belgilaydi",
+          "So‘zni qidiradi",
+          "Nusxalangan matnni joylaydi",
+          "Amalni bekor qiladi"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Hujjatdagi barcha matnni belgilash uchun qaysi tugmalar bosiladi?",
+        "options": [
+          "Ctrl + K",
+          "Ctrl + A",
+          "Ctrl + R",
+          "Ctrl + S"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Ctrl + Z vazifasi qaysi?",
+        "options": [
+          "Matnni saqlash",
+          "Jadval qo‘shish",
+          "Oxirgi amalni bekor qilish",
+          "Matnni nusxalash"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Ctrl + Y odatda nima qiladi?",
+        "options": [
+          "Sahifani yotiq qiladi",
+          "Barcha matnni belgilaydi",
+          "Havola oynasini ochadi",
+          "Bekor qilingan amalni qaytaradi yoki amalni takrorlaydi"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Word dasturida Ctrl + R nima qiladi?",
+        "options": [
+          "Matnni nusxalaydi",
+          "Abzasni o‘ngga tekislaydi",
+          "Hujjatni yangilaydi",
+          "Abzasni chapga tekislaydi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Havola qo‘shish oynasini ochish uchun qaysi tugmalar bosiladi?",
+        "options": [
+          "Ctrl + Y",
+          "Ctrl + A",
+          "Ctrl + C",
+          "Ctrl + K"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Ctrl + S nima qiladi?",
+        "options": [
+          "Hujjatni saqlaydi",
+          "Matnni o‘ngga tekislaydi",
+          "Matnni qidiradi",
+          "Hujjatga sana qo‘shadi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Matnni nusxalab boshqa joyga qo‘yish uchun qaysi ketma-ketlik to‘g‘ri?",
+        "options": [
+          "Ctrl + Z, so‘ng Ctrl + R",
+          "Ctrl + C, so‘ng Ctrl + V",
+          "Ctrl + S, so‘ng Ctrl + K",
+          "Ctrl + A, so‘ng Ctrl + Y"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Amalni Ctrl + Z bilan bekor qildingiz. Uni qaytarish uchun qaysi tugmalarni bosasiz?",
+        "options": [
+          "Ctrl + C",
+          "Ctrl + S",
+          "Ctrl + K",
+          "Ctrl + Y"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Belgilangan abzasni o‘ng tomonga tekislash uchun qaysi tugmalar kerak?",
+        "options": [
+          "Ctrl + A",
+          "Ctrl + V",
+          "Ctrl + R",
+          "Ctrl + Z"
+        ],
+        "correct": 2
+      }
+    ]
+  }
+]
